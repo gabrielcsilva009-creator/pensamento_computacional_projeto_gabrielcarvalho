@@ -55,7 +55,7 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
- * ** 🍧 Açaiteria:** L. Pietro | Arthur | Otavio
+ * ** 🍧 Açaiteria:** L. Pietro | Arthur | Otavio |
 --
 ## 📂 Projetos por Tema
 
